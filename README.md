@@ -1,0 +1,1 @@
+# Improving-Semantic-Alignment-in-Text-to-Image-Generation-for-Simple-Scenes-via-Prompt-Engineering
